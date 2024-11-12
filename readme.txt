@@ -6,6 +6,7 @@ We were provided a HTML, CSS, and base level JS script to add the following func
 ###Base Requirements###
 [x] Create a +1 Addition Counter
 [x] Create a +10 Addition Counter
+
 ###Bonus Challenges###
 [x] Create a -1 Subtraction Counter
 [x] Create a -10 Subtraction Counter
@@ -13,3 +14,5 @@ We were provided a HTML, CSS, and base level JS script to add the following func
 
 ###*Extra* Bonus Challenge###
 [ ] Create an input field that the user types in what number they want to add/subtract
+
+##Build a Shopping List##

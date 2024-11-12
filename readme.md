@@ -14,7 +14,7 @@ In our She Codes Javascript introduction course content we were provided with 3 
 - [x] Add a Reset button that sets the number back to 0
 
 ### *Extra* Bonus Challenge
-- [ ] Create an input field that the user types in what number they want to add/subtract
+- [x] Create an input field that the user types in what number they want to add/subtract
 
 ## Build a Shopping List
 

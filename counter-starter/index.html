@@ -15,15 +15,15 @@
         <div id="wrapper">
             <p id="number">0</p>
             <div id="button-wrapper">
-                <input type="button" value="+1" id="addition" onclick="add(1)"/>
-                <input type="button" value="+10" id="addition" onclick="add(10)"/>
-                <input type="button" value="-1" id="subtraction" onclick="minus(1)"/>
-                <input type="button" value="-10" id="subtraction" onclick="minus(10)"/>
+                <input type="button" value="+1" id="add1" onclick="add(1)"/>
+                <input type="button" value="+10" id="add10" onclick="add(10)"/>
+                <input type="button" value="-1" id="sub1" onclick="minus(1)"/>
+                <input type="button" value="-10" id="sub10" onclick="minus(10)"/>
                 <input type="button" value="reset" id="reset" onclick="reset(0)"/>
             </div>
-            <!--  In progress - adding input field -->
-            <!-- <div id="button-wrapper">
-                <input type="text" value="type number here" id="input" onclick="input"/> -->
+            <div id="button-wrapper">
+                <input type="number" value="" id="input-value" minlength="1" maxlength="3" inputmode="numeric"/>
+                <input type="button" value="submit" id="submit-button" onclick="inputSubmit()"/>
             </div>
         </div>
     <script src="script.js"></script>

@@ -12,9 +12,9 @@ body {
 
 #wrapper {
     width: 300px;
-    padding: 10px;
+    padding: 40px;
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 40px;
     box-shadow: 0px 0px 5px #062e03;
 }
 
@@ -27,10 +27,31 @@ input[type="button"] {
     background-color: #cb0162;
     color: #fff;
     border-radius: 3px;
-    padding: 2px;
+    padding: 4px;
     font-size: 1.5rem;
     width: 60px;
     height: 40px;
+    margin: 5px;
+}
+
+#input-value[type="number"] {
+    border: 1px solid #062e03;
+    border-radius: 3px;
+    padding: 4px;
+    font-size: 2rem;
+    width: 60px;
+    height: 40px;
+    margin: 5px;
+}
+
+#submit-button {
+    min-width: 100px;
+    background-color: rgb(90, 40, 190);
+}
+
+#reset {
+    min-width: 80px;
+    background-color: rgb(189, 49, 221);
 }
 
 input[type="button"]:hover {

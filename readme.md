@@ -30,10 +30,10 @@ In our She Codes Javascript introduction course content we were provided with 3 
 ## Build a ToDo List
 
 ### Requirements
-- [ ] Create an array to store todo tasks list
-- [ ] Create functionality to track task status
-- [ ] Add a functional button to mark item as complete
-- [ ] Create a functionality to add new items to the list
+- [x] Create an array to store todo tasks list
+- [x] Create functionality to track task status
+- [x] Add a functional button to mark item as complete
+- [x] Create a functionality to add new items to the list
 
 ### Bonus Challenges
 - [ ] Mark items as important

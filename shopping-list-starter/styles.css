@@ -80,6 +80,10 @@ input[type="button"] {
     background-color: lightgray;
 }
 
+#clear-button {
+    background-color: red;
+}
+
 input[type="button"]:hover {
     box-shadow: 0px 0px 3px grey;
 }
